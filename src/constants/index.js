@@ -450,7 +450,7 @@ import {
                 
         ],
         image: tripguide,
-        source_code_link: "https://github.com/yo-404/UI_UX-health.git",
+        source_code_link: "https://www.figma.com/file/150hF7vpjh8HjkqzmHAs8i/Figma-health?type=design&node-id=0-1&mode=design",
       }, 
   
   ];
