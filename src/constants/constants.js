@@ -15,9 +15,7 @@ import {
     git,
     figma,
     docker,
-    wordpress,
     github,
-    cognizant,
     jobit,
     tripguide,
     threejs,
@@ -140,7 +138,7 @@ import {
     {
       title: "PEGA Jr. - Programmer Analyst",
       company_name: "Cognizant Technology Solutions",
-      icon: cognizant,
+      icon: github,
       iconBg: "#383E56",
       date: "Feb 2021 - May 2021",
       points: [
@@ -153,7 +151,7 @@ import {
     {
       title: "Web Developer",
       company_name: "Freelancing",
-      icon: wordpress,
+      icon: github,
       iconBg: "#E6DEDD",
       date: "Jan 2019 - Jan 2021",
       points: [
