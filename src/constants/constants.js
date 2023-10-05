@@ -1,26 +1,25 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
-    javascript,
-    typescript,
-    html,
-    css,
-    reactjs,
-    redux,
-    tailwind,
-    nodejs,
-    mongodb,
-    git,
-    figma,
-    docker,
-    github,
-    jobit,
-    tripguide,
-    threejs,
-  } from "../assets";
-  
+  mobile,
+  backend,
+  creator,
+  web,
+  javascript,
+  typescript,
+  html,
+  css,
+  reactjs,
+  tailwind,
+  nodejs,
+  mongodb,
+  git,
+  figma,
+  docker,
+  jobit,
+  tripguide,
+  github,
+} from "../assets";
+
+ 
   export const navLinks = [
     {
       id: "about",
@@ -77,10 +76,7 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -93,10 +89,7 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
+
     {
       name: "git",
       icon: git,
@@ -109,6 +102,12 @@ import {
       name: "docker",
       icon: docker,
     },
+    {
+      name: "github",
+      icon: github,
+    },
+
+
   ];
   
   const experiences = [
@@ -127,7 +126,7 @@ import {
       {
         title: "Web development",
         company_name: "Freelancing",
-        icon: github,
+        icon: reactjs,
         iconBg: "#383E56",
         date: "May 2022 - Oct 2022",
         points: [
@@ -139,7 +138,7 @@ import {
     {
       title: "PEGA Jr. - Programmer Analyst",
       company_name: "Cognizant Technology Solutions",
-      icon: github,
+      icon: cognizant,
       iconBg: "#383E56",
       date: "Feb 2021 - May 2021",
       points: [
@@ -152,8 +151,8 @@ import {
     {
       title: "Web Developer",
       company_name: "Freelancing",
-      icon: github,
-      iconBg: "#E6DEDD",
+      icon: Wordpress,
+      iconBg: "#383E56",
       date: "Jan 2019 - Jan 2021",
       points: [
         "Developing and maintaining web applications using Wordpress ,Javascript other related technologies.",
