@@ -42,16 +42,17 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Backend Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "Cloud & DevOps Enthusiast",
+      icon: mobile,
     },
+
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "OpenSource Contributor",
+      icon: web,
     },
   ];
   
