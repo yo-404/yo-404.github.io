@@ -6,6 +6,10 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import back from "./back.png";
+import webdev from "./webdev.png";
+import devops from "./devops.png";
+import opensource from "./opensource.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -40,6 +44,20 @@ import wordpress from "./workex/wordpress.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import autocicd from "./autocicd.png";
+import myfitness from "./myfitness.png"
+import beetune from "./beetune.png";
+import cyber from "./cyber.png";
+import hospital from "./hospital.png";
+import packers from "./packers.png";
+import valeries from "./valeries.png";
+import musicrnn from "./musicrnn.png";
+import tunelives from "./tunelives.png";
+import cinevault from "./cinevault.png";
+import cicd from "./cicd.png";
+import bookingprx from "./bookingprx.png";
+
+
 
 export {
   logo,
@@ -80,4 +98,20 @@ export {
   bash,
   ubuntu,
   gitactions,
+  autocicd,
+  myfitness,
+  beetune,
+  cyber,
+  hospital,
+  packers,
+  valeries,
+  musicrnn,
+  tunelives,
+  cinevault,
+  cicd,
+  bookingprx,
+  back,
+  webdev,
+  devops,
+  opensource,
 };

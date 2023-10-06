@@ -33,6 +33,22 @@ import {
   bash,
   ubuntu,
   gitactions,
+  autocicd,
+  myfitness,
+  beetune,
+  cyber,
+  hospital,
+  packers,
+  valeries,
+  musicrnn,
+  tunelives,
+  cinevault,
+  cicd,
+  bookingprx,
+  back,
+  devops,
+  opensource,
+  webdev,
 } from "../assets";
 
  
@@ -46,6 +62,10 @@ import {
       title: "Work",
     },
     {
+      id: "projects",
+      title: "Projects",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -54,20 +74,20 @@ import {
   const services = [
     {
       title: "Web Developer",
-      icon: web,
+      icon: webdev,
     },
     {
       title: "Backend Developer",
-      icon: mobile,
+      icon: back,
     },
     {
       title: "Cloud & DevOps Enthusiast",
-      icon: mobile,
+      icon: devops,
     },
 
     {
       title: "OpenSource Contributor",
-      icon: web,
+      icon: opensource,
     },
   ];
   
@@ -250,7 +270,7 @@ import {
   
   const projects = [
     {
-      name: "Booking_PRX",
+      name: "Booking_PRX (In progress)",
       description:
         "Booking pRX is an innovative and user-friendly online platform designed to streamline the process of booking turf facilities for sports, events, and recreational activities. This project aims to provide a comprehensive and efficient solution for individuals, sports enthusiasts, and event organizers who require easy access to turf facilities. ",
       tags: [
@@ -267,7 +287,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: bookingprx,
       source_code_link: "https://github.com/yo-404/Booking_pRX",
     },
     {
@@ -292,7 +312,7 @@ import {
             color: "yellow-text-gradient",
         },
       ],
-      image: tripguide,
+      image: beetune,
       source_code_link: "https://github.com/yo-404/beeTune",
     },
     {
@@ -317,7 +337,7 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
+        image: cinevault,
         source_code_link: "https://github.com/yo-404/GolangBasics101/tree/main/25mongoapi",
       },
       {
@@ -335,7 +355,7 @@ import {
           },
        
         ],
-        image: tripguide,
+        image: tunelives,
         source_code_link: "https://tunelives.com/",
       },
       {
@@ -360,7 +380,7 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
+        image: musicrnn,
         source_code_link: "https://github.com/yo-404/Music_composition_using_RNN",
       },
       {
@@ -386,8 +406,8 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/yo-404/Music_composition_using_RNN",
+        image: autocicd,
+        source_code_link: "https://github.com/YO-404/JAVA-MAVEN-K8S",
       },
       {
         name: "AUTOMATED CI/CD PIPELINE FOR NODEJS APPLICATION",
@@ -412,8 +432,8 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/YO-404/JAVA-MAVEN-K8S",
+        image: cicd,
+        source_code_link: "https://github.com/yo-404/node-todo-app-cicd.git",
       },
       {
         name: "VALERIE'S DAYCARE AND PRESCHOOL",
@@ -437,7 +457,7 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
+        image: valeries,
         source_code_link: "https://valeriesdaycare.in/",
       }, 
       {
@@ -462,7 +482,7 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
+        image: packers,
         source_code_link: "https://github.com/yo-404/Packers_movers_ug_proj.git",
       }, 
       {
@@ -487,7 +507,7 @@ import {
               color: "yellow-text-gradient",
           },
         ],
-        image: tripguide,
+        image: hospital,
         source_code_link: "https://github.com/yo-404/Hospital_mgmt_ug_proj.git",
       }, 
       {
@@ -505,7 +525,7 @@ import {
           },
         
         ],
-        image: tripguide,
+        image: cyber,
         source_code_link: "https://github.com/yo-404/Cyber_cafe_mgmt_vb.git",
       }, 
       {
@@ -519,7 +539,7 @@ import {
           },
                 
         ],
-        image: tripguide,
+        image: myfitness,
         source_code_link: "https://www.figma.com/file/150hF7vpjh8HjkqzmHAs8i/Figma-health?type=design&node-id=0-1&mode=design",
       }, 
   
