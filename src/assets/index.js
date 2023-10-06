@@ -18,6 +18,21 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import go from "./tech/go.png";
+import bootstrap from "./tech/bootstrap.png";
+import aws from "./tech/aws.png";
+import argocd from "./tech/argocd.png";
+import ansible from "./tech/ansible.png";
+import k8s from "./tech/k8s.png";
+import terraform from "./tech/terraform.png";
+import jenkins from "./tech/jenkins.png";
+import python from "./tech/python.png";
+import cpp from "./tech/cpp.png";
+import mysql from "./tech/mysql.png";
+import bash from "./tech/bash.png";
+import ubuntu from "./tech/ubuntu.png";
+import gitactions from "./tech/gitactions.png";
+
 
 import cognizant from "./workex/cognizant.png";
 import wordpress from "./workex/wordpress.png";
@@ -51,4 +66,18 @@ export {
   tripguide,
   cognizant,
   wordpress,
+  go,
+  bootstrap,
+  aws,
+  argocd,
+  ansible,
+  k8s,
+  terraform,
+  jenkins,
+  python,
+  cpp,
+  mysql,
+  bash,
+  ubuntu,
+  gitactions,
 };

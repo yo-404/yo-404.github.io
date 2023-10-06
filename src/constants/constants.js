@@ -17,6 +17,22 @@ import {
   jobit,
   tripguide,
   github,
+  cognizant,
+  wordpress,
+  go,
+  bootstrap,
+  aws,
+  argocd,
+  ansible,
+  k8s,
+  terraform,
+  jenkins,
+  python,
+  cpp,
+  mysql,
+  bash,
+  ubuntu,
+  gitactions,
 } from "../assets";
 
  
@@ -68,10 +84,10 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+    // {
+    //   name: "TypeScript",
+    //   icon: typescript,
+    // },
     {
       name: "React JS",
       icon: reactjs,
@@ -82,8 +98,8 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "wordpress",
+      icon: wordpress,
     },
     {
       name: "MongoDB",
@@ -105,6 +121,62 @@ import {
     {
       name: "github",
       icon: github,
+    },
+    {
+      name: "terraform",
+      icon: terraform,
+    },
+    {
+      name: "go",
+      icon: go,
+    },
+    {
+      name: "bootstrap",
+      icon: bootstrap,
+    },
+    {
+      name: "aws",
+      icon: aws,
+    },
+    {
+      name: "argocd",
+      icon: argocd,
+    },
+    {
+      name: "ansible",
+      icon: ansible,
+    },
+    {
+      name: "k8s",
+      icon: k8s,
+    },
+    {
+      name: "jenkins",
+      icon: jenkins,
+    },
+    {
+      name: "python",
+      icon: python,
+    },
+    {
+      name: "cpp",
+      icon: cpp,
+    },
+    {
+      name: "mysql",
+      icon: mysql,
+    },
+    {
+      name: "bash",
+      icon: bash,
+    },
+    {
+      name: "ubuntu",
+      icon: ubuntu,
+    },
+    {
+      name: "gitactions",
+      icon: gitactions,
     },
 
 
@@ -151,7 +223,7 @@ import {
     {
       title: "Web Developer",
       company_name: "Freelancing",
-      icon: Wordpress,
+      icon: wordpress,
       iconBg: "#383E56",
       date: "Jan 2019 - Jan 2021",
       points: [
